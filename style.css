@@ -1,0 +1,19 @@
+span:hover {
+  color:green;
+  background-color: yellow;
+}
+
+span{
+   color:red;
+   background-color:#14918f;
+}
+h2{
+  color:red;
+  background-color:#14918f;
+}
+ul{
+  color:black
+}
+body {
+  background-image: url('bg.jpg');
+}
